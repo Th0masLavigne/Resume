@@ -4,7 +4,7 @@ bibliography: ../../../Resources/biblio/biblio_web.bib
 date: "2019-11-01"
 categories: 
   - "Projects"
-image: "DVC.png"
+image: "mesh.png"
 ---
 
 This project provides a critical experimental analysis into the complex mechanical behavior of pantographic metamaterials, specifically seeking to understand how their architectured structure influences the Poynting effect—the coupling between torsion and axial deformation. Researchers employed a sophisticated multiscale Digital Volume Correlation (DVC) methodology to analyze an in situ torsion test on a 3D-printed Inconel pantograph, utilizing micro-computed tomography to acquire detailed 3D volumes of the sample across a large range of angular amplitudes (up to 180°). The innovative technique was adapted to overcome challenges such as low internal contrast and large rotations, allowing for the precise measurement of displacement and strain fields at both the macroscopic and mesoscopic scales. This work not only confirmed the existence of the Poynting effect at the macrolevel but, more critically, provided novel quantitative data on its emergence at the mesoscopic scale—revealing local contraction mechanisms in the hinges. The resulting kinematic data serves as an invaluable foundation for validating and calibrating advanced constitutive models for these high-performance architectured materials. [@Auger2020]
