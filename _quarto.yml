@@ -21,8 +21,8 @@ website:
   bread-crumbs: true
   open-graph: true
   title: "Thomas Lavigne"
-  image: Resources/images/profile_pic.jpg
-  favicon: Resources/images/profile_pic.jpg
+  image: Resources/images/profile_pic2.jpeg
+  favicon: Resources/images/profile_pic2.jpeg
   description: "Thomas Lavigne, PHD, personal webpage"
   site-url: https://ThomasLavigne.github.io
   navbar:
