@@ -40,7 +40,7 @@ format:
             }
           </style>
       - text: |
-          <meta name="google-site-verification" content="J37VXDD8lcI4pQUOwyHyoJSfdMHufvb48HCWx-pLnGw" />
+          <meta name="google-site-verification" content="tU9wtzWA1tzRdwTl-Sqo-j5PqUVDTz4gUn_Xy9Pji1Q" />
 ---
 
 
